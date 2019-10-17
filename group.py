@@ -2,4 +2,10 @@
 
 # Your code to go here...
 
-my_group =
+my_group = team7
+
+personA = {"name": "Jill", "age": 26, 
+           "Occupation": "biologist", "friend(s)": "Zalika", "Partner": "John"}
+
+personA["Ocuupation"]
+
